@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Network Security and CTF challenges**
  
- 🌱 I’m currently learning **Wireshark, Java, C++, Lunix**
+ 🌱 I’m currently learning **Wireshark, Java, C++, Linux**
    
  **CyberDawgs** On **top!!**
 
